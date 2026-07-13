@@ -21,5 +21,5 @@ Computer Science (B.Sc.) student at TU Berlin who likes to build and ship produc
 ### Reach me
 
 - ✉️ vahanghazaryan03@gmail.com
-- 💼 LinkedIn: <!-- add link once created -->
-- 🌐 Portfolio: <!-- add once live -->
+- 💼 LinkedIn: www.linkedin.com/in/vahan-ghazaryan03
+- 🌐 Portfolio: https://vahanghazaryan03.github.io/
