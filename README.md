@@ -10,7 +10,7 @@ Computer Science (B.Sc.) student at TU Berlin. I build full-stack products and t
 
 ## What I have shipped
 
-### [PromptCatalyst](https://promptcatalyst.ai) · 10,000+ registered users
+### [Prompt Catalyst](https://promptcatalyst.ai) · 10,000+ registered users
 
 A full-stack AI platform for prompt optimization and image/video generation, designed, built and operated solo since 2024. Route bundles are code-split and prefetched, generation runs async so it never blocks the UI, and the client separates auth, quota and network failures before anything surfaces to the user.
 
