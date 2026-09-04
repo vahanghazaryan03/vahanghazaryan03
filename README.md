@@ -48,7 +48,7 @@ The audience side of Theoretico, grown from zero through research, writing, prod
 
 **Practice** Git, GitHub Actions, REST APIs, browser extension development, Jest and Testing Library
 
-**Spoken** Armenian (native), Russian (native), English (fluent), German (C1)
+**Spoken** Armenian (native), Russian (fluent), English (fluent), German (C1)
 
 ---
 
