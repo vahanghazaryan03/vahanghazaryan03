@@ -42,7 +42,7 @@ The audience side of Theoretico, grown from zero through research, writing, prod
 
 ## Stack
 
-**Languages** TypeScript, JavaScript, Java, C++, C#
+**Languages** TypeScript, JavaScript, Java, C++
 
 **Frameworks & infra** React, Next.js, Node.js, MongoDB, Supabase, Redis, AWS, Vercel, Stripe
 
