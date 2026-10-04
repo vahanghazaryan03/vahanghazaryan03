@@ -1,8 +1,8 @@
 # Vahan Ghazaryan
 
-Computer Science (B.Sc.) student at TU Berlin. I build full-stack products and take them all the way to paying users: architecture, code, billing, deployment, analytics and support.
+Computer Science (B.Sc.) student at TU Berlin and working student at Raisin. I build full-stack products and take them all the way to paying users: architecture, code, billing, deployment, analytics and support.
 
-**Berlin · open to working-student and internship roles**
+**Berlin · working student at Raisin**
 
 [Portfolio](https://vahanghazaryan03.github.io/) · [Email](mailto:vahanghazaryan03@gmail.com) · [LinkedIn](https://www.linkedin.com/in/vahan-ghazaryan03)
 
@@ -12,13 +12,13 @@ Computer Science (B.Sc.) student at TU Berlin. I build full-stack products and t
 
 ### [Prompt Catalyst](https://promptcatalyst.ai) · 10,000+ registered users
 
-A full-stack AI platform for prompt optimization and image/video generation, designed, built and operated solo since 2024. Route bundles are code-split and prefetched, generation runs async so it never blocks the UI, and the client separates auth, quota and network failures before anything surfaces to the user.
+A full-stack AI platform for prompt optimization and image/video generation, designed, built and operated solo from 2024 to 2026, and still live. Route bundles are code-split and prefetched, generation runs async so it never blocks the UI, and the client separates auth, quota and network failures before anything surfaces to the user.
 
 `React` `Node.js` `MongoDB` `Stripe` `Tailwind` `Zustand`
 
 [Frontend source](https://github.com/vahanghazaryan03/prompt-catalyst-web)
 
-### [Prompt Catalyst extension](https://chromewebstore.google.com/detail/prompt-catalyst/hehieakgdbakdajfpekgmfckplcjmgcf) · 2,400+ users · 4.68★
+### [Prompt Catalyst extension](https://chromewebstore.google.com/detail/prompt-catalyst/hehieakgdbakdajfpekgmfckplcjmgcf) · 2,400+ peak users · 4.68★
 
 Prompt building inside the tools people already generate in. One Manifest V3 codebase ships to both Chrome and Firefox, with Supabase auth calling GoTrue directly so the extension needs no bundler and no runtime dependencies, and releases gated behind an automated build verification step.
 
@@ -48,7 +48,7 @@ The audience side of Theoretico, grown from zero through research, writing, prod
 
 **Practice** Git, GitHub Actions, REST APIs, browser extension development, Jest and Testing Library
 
-**Spoken** Armenian (native), Russian (fluent), English (fluent), German (C1)
+**Spoken** Armenian (native), Russian (native), English (fluent), German (C1)
 
 ---
 
